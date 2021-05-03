@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>recent-videos</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list >
+    <ion-item *ngFor='let ft of viddetail'>
+      <ion-card>
+        <ion-card-header>
+          <ion-card-subtitle>by:{{ft.author}}</ion-card-subtitle>
+          <ion-card-title>{{ft.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" (click)="videodetails()">View</ion-button>
+        </ion-item>
+
+        <ion-card-content>
+          Description: {{ft.description}}
+          duration:{{ft.detail}}
+
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+  </ion-list>
+
+</ion-content>

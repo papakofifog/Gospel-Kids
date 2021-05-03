@@ -1,0 +1,228 @@
+<ion-header class="ion-head-bar">
+  <ion-toolbar>
+    <ion-title>Bible Stories</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-list  >
+    <ion-item *ngFor="let ft of num">
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{ft.id}}</ion-card-subtitle>
+          <ion-card-title>{{ft.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{ft.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of </p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of sage" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of anaias" >
+    <ion-card >
+      <ion-card-header >
+        <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+        <ion-card-title>{{dt.title}}</ion-card-title>
+        <ion-img></ion-img>
+      </ion-card-header>
+      <ion-item>
+
+        <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+      </ion-item>
+
+      <ion-card-content >
+        <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+      </ion-card-content>
+    </ion-card>
+  </ion-item>
+
+    <ion-item *ngFor="let dt of din" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of ras" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of mus" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of goat" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of given" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of given" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of saf" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of pus" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+    <ion-item *ngFor="let dt of rust" >
+      <ion-card >
+        <ion-card-header >
+          <ion-card-subtitle>{{dt.id}}</ion-card-subtitle>
+          <ion-card-title>{{dt.title}}</ion-card-title>
+          <ion-img></ion-img>
+        </ion-card-header>
+        <ion-item>
+
+          <ion-button fill="outline" slot="end" href="{{dt.short_url}}">Read</ion-button>
+        </ion-item>
+
+        <ion-card-content >
+          <p>The story can be found in the book of {{dt.bible_ref_english}}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-item>
+
+
+  </ion-list>
+
+</ion-content>

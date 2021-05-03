@@ -1,0 +1,33 @@
+<ion-header class="ion-no-border">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button color="primary">
+        <ion-icon slot="icon-only" name="arrow-back" [routerLink]="['../tabs/home']" style="color: white;"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button (click)="openRegister()" style="color:white;" href="../sign-up" >Sign up</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content>
+  <div id="header">
+    <h1>Login Here</h1>
+    <img src="../../assets/icon/gospelkids.PNG"/>
+  </div>
+  <br>
+
+  <div id="form">
+    <ion-input id="input" placeholder="Email" type="email"  ngDefaultControl placeholder="Enter Email here"></ion-input>
+    <br>
+    <ion-input id="input" placeholder="Password" type="password"  ngDefaultControl placeholder="Enter password"></ion-input>
+
+    <ion-button expand="block" shape="round" >Login</ion-button> <br>
+    <!--<a [routerLink]="['/forgot-password']">Forgot Password</a>-->
+    <br>
+    <span>Don't have an account? <a  href="../sign-up/sign-up.page.html">Sign Up</a></span>
+  </div>
+
+</ion-content>

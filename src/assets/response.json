@@ -1,0 +1,1860 @@
+{
+  "alternate": {
+    "en": "https://biblestories.org/api/stories",
+    "es-419": "https://biblestories.org/es/api/stories",
+    "fr": "https://recitsbibliques.com/api/stories",
+    "pt-BR": "https://historiasdabiblia.com.br/api/stories",
+    "zh-Hans": "https://greatstoriesofthebible.cn/api/stories"
+  },
+  "data": {
+    "the_creation": {
+      "id": "the_creation",
+      "type": "story",
+      "title": "The Creation",
+      "accounts": [
+        {
+          "id": "the_creation",
+          "type": "account",
+          "title": "The Creation",
+          "bible_ref": "Genesis 1:1-2:7",
+          "bible_ref_english": "Genesis 1:1-2:7",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_creation",
+          "short_url": "https://biblestories.org/the_creation"
+        }
+      ]
+    },
+    "adam_and_eve": {
+      "id": "adam_and_eve",
+      "type": "story",
+      "title": "Adam and Eve",
+      "accounts": [
+        {
+          "id": "adam_and_eve",
+          "type": "account",
+          "title": "Adam and Eve",
+          "bible_ref": "Genesis 2:8-3:24",
+          "bible_ref_english": "Genesis 2:8-3:24",
+          "author": "Moses",
+          "url": "https://biblestories.org/adam_and_eve",
+          "short_url": "https://biblestories.org/adam_and_eve"
+        }
+      ]
+    },
+    "cain_and_abel": {
+      "id": "cain_and_abel",
+      "type": "story",
+      "title": "Cain and Abel",
+      "accounts": [
+        {
+          "id": "cain_and_abel",
+          "type": "account",
+          "title": "Cain and Abel",
+          "bible_ref": "Genesis 4:1-16",
+          "bible_ref_english": "Genesis 4:1-16",
+          "author": "Moses",
+          "url": "https://biblestories.org/cain_and_abel",
+          "short_url": "https://biblestories.org/cain_and_abel"
+        }
+      ]
+    },
+    "the_great_flood": {
+      "id": "the_great_flood",
+      "type": "story",
+      "title": "The Great Flood",
+      "accounts": [
+        {
+          "id": "the_great_flood",
+          "type": "account",
+          "title": "The Great Flood",
+          "bible_ref": "Genesis 6:5-9:17",
+          "bible_ref_english": "Genesis 6:5-9:17",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_great_flood",
+          "short_url": "https://biblestories.org/the_great_flood"
+        }
+      ]
+    },
+    "the_tower_of_babel": {
+      "id": "the_tower_of_babel",
+      "type": "story",
+      "title": "The Tower of Babel",
+      "accounts": [
+        {
+          "id": "the_tower_of_babel",
+          "type": "account",
+          "title": "The Tower of Babel",
+          "bible_ref": "Genesis 11:1-9",
+          "bible_ref_english": "Genesis 11:1-9",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_tower_of_babel",
+          "short_url": "https://biblestories.org/the_tower_of_babel"
+        }
+      ]
+    },
+    "god_calls_abraham": {
+      "id": "god_calls_abraham",
+      "type": "story",
+      "title": "God Calls Abraham",
+      "accounts": [
+        {
+          "id": "god_calls_abraham",
+          "type": "account",
+          "title": "God Calls Abraham",
+          "bible_ref": "Genesis 12:1-9",
+          "bible_ref_english": "Genesis 12:1-9",
+          "author": "Moses",
+          "url": "https://biblestories.org/god_calls_abraham",
+          "short_url": "https://biblestories.org/god_calls_abraham"
+        }
+      ]
+    },
+    "sodom_and_gomorrah": {
+      "id": "sodom_and_gomorrah",
+      "type": "story",
+      "title": "Sodom and Gomorrah",
+      "accounts": [
+        {
+          "id": "sodom_and_gomorrah",
+          "type": "account",
+          "title": "Sodom and Gomorrah",
+          "bible_ref": "Genesis 18:16-19:29",
+          "bible_ref_english": "Genesis 18:16-19:29",
+          "author": "Moses",
+          "url": "https://biblestories.org/sodom_and_gomorrah",
+          "short_url": "https://biblestories.org/sodom_and_gomorrah"
+        }
+      ]
+    },
+    "abrahams_obedience": {
+      "id": "abrahams_obedience",
+      "type": "story",
+      "title": "Abraham's Obedience",
+      "accounts": [
+        {
+          "id": "abrahams_obedience",
+          "type": "account",
+          "title": "Abraham's Obedience",
+          "bible_ref": "Genesis 22:1-19",
+          "bible_ref_english": "Genesis 22:1-19",
+          "author": "Moses",
+          "url": "https://biblestories.org/abrahams_obedience",
+          "short_url": "https://biblestories.org/abrahams_obedience"
+        }
+      ]
+    },
+    "isaac_marries_rebekah": {
+      "id": "isaac_marries_rebekah",
+      "type": "story",
+      "title": "Isaac Marries Rebekah",
+      "accounts": [
+        {
+          "id": "isaac_marries_rebekah",
+          "type": "account",
+          "title": "Isaac Marries Rebekah",
+          "bible_ref": "Genesis 24:1-67",
+          "bible_ref_english": "Genesis 24:1-67",
+          "author": "Moses",
+          "url": "https://biblestories.org/isaac_marries_rebekah",
+          "short_url": "https://biblestories.org/isaac_marries_rebekah"
+        }
+      ]
+    },
+    "esaus_birthright": {
+      "id": "esaus_birthright",
+      "type": "story",
+      "title": "Esau's Birthright",
+      "accounts": [
+        {
+          "id": "esaus_birthright",
+          "type": "account",
+          "title": "Esau's Birthright",
+          "bible_ref": "Genesis 25:19-34",
+          "bible_ref_english": "Genesis 25:19-34",
+          "author": "Moses",
+          "url": "https://biblestories.org/esaus_birthright",
+          "short_url": "https://biblestories.org/esaus_birthright"
+        }
+      ]
+    },
+    "isaac_blesses_jacob": {
+      "id": "isaac_blesses_jacob",
+      "type": "story",
+      "title": "Isaac Blesses Jacob",
+      "accounts": [
+        {
+          "id": "isaac_blesses_jacob",
+          "type": "account",
+          "title": "Isaac Blesses Jacob",
+          "bible_ref": "Genesis 27:1-40",
+          "bible_ref_english": "Genesis 27:1-40",
+          "author": "Moses",
+          "url": "https://biblestories.org/isaac_blesses_jacob",
+          "short_url": "https://biblestories.org/isaac_blesses_jacob"
+        }
+      ]
+    },
+    "jacob_and_laban": {
+      "id": "jacob_and_laban",
+      "type": "story",
+      "title": "Jacob and Laban",
+      "accounts": [
+        {
+          "id": "jacob_and_laban",
+          "type": "account",
+          "title": "Jacob and Laban",
+          "bible_ref": "Genesis 29:1-31:55",
+          "bible_ref_english": "Genesis 29:1-31:55",
+          "author": "Moses",
+          "url": "https://biblestories.org/jacob_and_laban",
+          "short_url": "https://biblestories.org/jacob_and_laban"
+        }
+      ]
+    },
+    "jacob_wrestles": {
+      "id": "jacob_wrestles",
+      "type": "story",
+      "title": "Jacob Wrestles",
+      "accounts": [
+        {
+          "id": "jacob_wrestles",
+          "type": "account",
+          "title": "Jacob Wrestles",
+          "bible_ref": "Genesis 32:1-33:20",
+          "bible_ref_english": "Genesis 32:1-33:20",
+          "author": "Moses",
+          "url": "https://biblestories.org/jacob_wrestles",
+          "short_url": "https://biblestories.org/jacob_wrestles"
+        }
+      ]
+    },
+    "revenge_against_schechem": {
+      "id": "revenge_against_schechem",
+      "type": "story",
+      "title": "Revenge against Shechem",
+      "accounts": [
+        {
+          "id": "revenge_against_schechem",
+          "type": "account",
+          "title": "Revenge against Shechem",
+          "bible_ref": "Genesis 34:1-31, 49:5-7",
+          "bible_ref_english": "Genesis 34:1-31, 49:5-7",
+          "author": "Moses",
+          "url": "https://biblestories.org/revenge_against_schechem",
+          "short_url": "https://biblestories.org/revenge_against_schechem"
+        }
+      ]
+    },
+    "joseph_in_prison": {
+      "id": "joseph_in_prison",
+      "type": "story",
+      "title": "Joseph in Prison",
+      "accounts": [
+        {
+          "id": "joseph_in_prison",
+          "type": "account",
+          "title": "Joseph in Prison",
+          "bible_ref": "Genesis 39:1-40:23",
+          "bible_ref_english": "Genesis 39:1-40:23",
+          "author": "Moses",
+          "url": "https://biblestories.org/joseph_in_prison",
+          "short_url": "https://biblestories.org/joseph_in_prison"
+        }
+      ]
+    },
+    "joseph_as_a_ruler": {
+      "id": "joseph_as_a_ruler",
+      "type": "story",
+      "title": "Joseph as a Ruler",
+      "accounts": [
+        {
+          "id": "joseph_as_a_ruler",
+          "type": "account",
+          "title": "Joseph as a Ruler",
+          "bible_ref": "Genesis 41:1-57",
+          "bible_ref_english": "Genesis 41:1-57",
+          "author": "Moses",
+          "url": "https://biblestories.org/joseph_as_a_ruler",
+          "short_url": "https://biblestories.org/joseph_as_a_ruler"
+        }
+      ]
+    },
+    "family_reunion": {
+      "id": "family_reunion",
+      "type": "story",
+      "title": "Family Reunion",
+      "accounts": [
+        {
+          "id": "family_reunion",
+          "type": "account",
+          "title": "Family Reunion",
+          "bible_ref": "Genesis 42:1-45:28, 46:28-30",
+          "bible_ref_english": "Genesis 42:1-45:28, 46:28-30",
+          "author": "Moses",
+          "url": "https://biblestories.org/family_reunion",
+          "short_url": "https://biblestories.org/family_reunion"
+        }
+      ]
+    },
+    "moses_birth": {
+      "id": "moses_birth",
+      "type": "story",
+      "title": "Moses' Birth",
+      "accounts": [
+        {
+          "id": "moses_birth",
+          "type": "account",
+          "title": "Moses' Birth",
+          "bible_ref": "Exodus 1:1-2:10",
+          "bible_ref_english": "Exodus 1:1-2:10",
+          "author": "Moses",
+          "url": "https://biblestories.org/moses_birth",
+          "short_url": "https://biblestories.org/moses_birth"
+        }
+      ]
+    },
+    "the_burning_bush": {
+      "id": "the_burning_bush",
+      "type": "story",
+      "title": "The Burning Bush",
+      "accounts": [
+        {
+          "id": "the_burning_bush",
+          "type": "account",
+          "title": "The Burning Bush",
+          "bible_ref": "Exodus 3:1-22",
+          "bible_ref_english": "Exodus 3:1-22",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_burning_bush",
+          "short_url": "https://biblestories.org/the_burning_bush"
+        }
+      ]
+    },
+    "the_ten_plagues": {
+      "id": "the_ten_plagues",
+      "type": "story",
+      "title": "The Ten Plagues",
+      "accounts": [
+        {
+          "id": "the_ten_plagues",
+          "type": "account",
+          "title": "The Ten Plagues",
+          "bible_ref": "Exodus 7:14-12:30",
+          "bible_ref_english": "Exodus 7:14-12:30",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_ten_plagues",
+          "short_url": "https://biblestories.org/the_ten_plagues"
+        }
+      ]
+    },
+    "the_exodus": {
+      "id": "the_exodus",
+      "type": "story",
+      "title": "The Exodus",
+      "accounts": [
+        {
+          "id": "the_exodus",
+          "type": "account",
+          "title": "The Exodus",
+          "bible_ref": "Exodus 12:31-51",
+          "bible_ref_english": "Exodus 12:31-51",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_exodus",
+          "short_url": "https://biblestories.org/the_exodus"
+        }
+      ]
+    },
+    "the_red_sea": {
+      "id": "the_red_sea",
+      "type": "story",
+      "title": "The Red Sea",
+      "accounts": [
+        {
+          "id": "the_red_sea",
+          "type": "account",
+          "title": "The Red Sea",
+          "bible_ref": "Exodus 14:5-31",
+          "bible_ref_english": "Exodus 14:5-31",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_red_sea",
+          "short_url": "https://biblestories.org/the_red_sea"
+        }
+      ]
+    },
+    "the_gold_calf": {
+      "id": "the_gold_calf",
+      "type": "story",
+      "title": "The Gold Calf",
+      "accounts": [
+        {
+          "id": "the_gold_calf",
+          "type": "account",
+          "title": "The Gold Calf",
+          "bible_ref": "Exodus 32:1-29",
+          "bible_ref_english": "Exodus 32:1-29",
+          "author": "Moses",
+          "url": "https://biblestories.org/the_gold_calf",
+          "short_url": "https://biblestories.org/the_gold_calf"
+        }
+      ]
+    },
+    "exploring_the_land": {
+      "id": "exploring_the_land",
+      "type": "story",
+      "title": "Exploring the Land",
+      "accounts": [
+        {
+          "id": "exploring_the_land",
+          "type": "account",
+          "title": "Exploring the Land",
+          "bible_ref": "Numbers 13:1-14:38",
+          "bible_ref_english": "Numbers 13:1-14:38",
+          "author": "Moses",
+          "url": "https://biblestories.org/exploring_the_land",
+          "short_url": "https://biblestories.org/exploring_the_land"
+        }
+      ]
+    },
+    "rebellion_in_the_ranks": {
+      "id": "rebellion_in_the_ranks",
+      "type": "story",
+      "title": "Rebellion in the Ranks",
+      "accounts": [
+        {
+          "id": "rebellion_in_the_ranks",
+          "type": "account",
+          "title": "Rebellion in the Ranks",
+          "bible_ref": "Numbers 16:1-17:13",
+          "bible_ref_english": "Numbers 16:1-17:13",
+          "author": "Moses",
+          "url": "https://biblestories.org/rebellion_in_the_ranks",
+          "short_url": "https://biblestories.org/rebellion_in_the_ranks"
+        }
+      ]
+    },
+    "balak_and_balaam": {
+      "id": "balak_and_balaam",
+      "type": "story",
+      "title": "Balak and Balaam",
+      "accounts": [
+        {
+          "id": "balak_and_balaam",
+          "type": "account",
+          "title": "Balak and Balaam",
+          "bible_ref": "Numbers 22:1-24:25",
+          "bible_ref_english": "Numbers 22:1-24:25",
+          "author": "Moses",
+          "url": "https://biblestories.org/balak_and_balaam",
+          "short_url": "https://biblestories.org/balak_and_balaam"
+        }
+      ]
+    },
+    "rahab_and_the_spies": {
+      "id": "rahab_and_the_spies",
+      "type": "story",
+      "title": "Rahab and the Spies",
+      "accounts": [
+        {
+          "id": "rahab_and_the_spies",
+          "type": "account",
+          "title": "Rahab and the Spies",
+          "bible_ref": "Joshua 2:1-24",
+          "bible_ref_english": "Joshua 2:1-24",
+          "author": null,
+          "url": "https://biblestories.org/rahab_and_the_spies",
+          "short_url": "https://biblestories.org/rahab_and_the_spies"
+        }
+      ]
+    },
+    "jericho_falls": {
+      "id": "jericho_falls",
+      "type": "story",
+      "title": "Jericho Falls",
+      "accounts": [
+        {
+          "id": "jericho_falls",
+          "type": "account",
+          "title": "Jericho Falls",
+          "bible_ref": "Joshua 6:1-27",
+          "bible_ref_english": "Joshua 6:1-27",
+          "author": null,
+          "url": "https://biblestories.org/jericho_falls",
+          "short_url": "https://biblestories.org/jericho_falls"
+        }
+      ]
+    },
+    "gibeons_con_artists": {
+      "id": "gibeons_con_artists",
+      "type": "story",
+      "title": "Gibeon's Con Artists",
+      "accounts": [
+        {
+          "id": "gibeons_con_artists",
+          "type": "account",
+          "title": "Gibeon's Con Artists",
+          "bible_ref": "Joshua 9:1-27",
+          "bible_ref_english": "Joshua 9:1-27",
+          "author": null,
+          "url": "https://biblestories.org/gibeons_con_artists",
+          "short_url": "https://biblestories.org/gibeons_con_artists"
+        }
+      ]
+    },
+    "deborah_and_barak": {
+      "id": "deborah_and_barak",
+      "type": "story",
+      "title": "Deborah and Barak",
+      "accounts": [
+        {
+          "id": "deborah_and_barak",
+          "type": "account",
+          "title": "Deborah and Barak",
+          "bible_ref": "Judges 4:1-24",
+          "bible_ref_english": "Judges 4:1-24",
+          "author": null,
+          "url": "https://biblestories.org/deborah_and_barak",
+          "short_url": "https://biblestories.org/deborah_and_barak"
+        }
+      ]
+    },
+    "gideon_as_judge": {
+      "id": "gideon_as_judge",
+      "type": "story",
+      "title": "Gideon as Judge",
+      "accounts": [
+        {
+          "id": "gideon_as_judge",
+          "type": "account",
+          "title": "Gideon as Judge",
+          "bible_ref": "Judges 6:1-7:25",
+          "bible_ref_english": "Judges 6:1-7:25",
+          "author": null,
+          "url": "https://biblestories.org/gideon_as_judge",
+          "short_url": "https://biblestories.org/gideon_as_judge"
+        }
+      ]
+    },
+    "abimelechs_ambition": {
+      "id": "abimelechs_ambition",
+      "type": "story",
+      "title": "Abimelech's Ambition",
+      "accounts": [
+        {
+          "id": "abimelechs_ambition",
+          "type": "account",
+          "title": "Abimelech's Ambition",
+          "bible_ref": "Judges 9:1-57",
+          "bible_ref_english": "Judges 9:1-57",
+          "author": null,
+          "url": "https://biblestories.org/abimelechs_ambition",
+          "short_url": "https://biblestories.org/abimelechs_ambition"
+        }
+      ]
+    },
+    "samson_as_judge": {
+      "id": "samson_as_judge",
+      "type": "story",
+      "title": "Samson as Judge",
+      "accounts": [
+        {
+          "id": "samson_as_judge",
+          "type": "account",
+          "title": "Samson as Judge",
+          "bible_ref": "Judges 13:1-16:31",
+          "bible_ref_english": "Judges 13:1-16:31",
+          "author": null,
+          "url": "https://biblestories.org/samson_as_judge",
+          "short_url": "https://biblestories.org/samson_as_judge"
+        }
+      ]
+    },
+    "ruth_naomi_and_boaz": {
+      "id": "ruth_naomi_and_boaz",
+      "type": "story",
+      "title": "Ruth, Naomi and Boaz",
+      "accounts": [
+        {
+          "id": "ruth_naomi_and_boaz",
+          "type": "account",
+          "title": "Ruth, Naomi and Boaz",
+          "bible_ref": "Ruth 1:1-4:22",
+          "bible_ref_english": "Ruth 1:1-4:22",
+          "author": null,
+          "url": "https://biblestories.org/ruth_naomi_and_boaz",
+          "short_url": "https://biblestories.org/ruth_naomi_and_boaz"
+        }
+      ]
+    },
+    "samuel_is_born": {
+      "id": "samuel_is_born",
+      "type": "story",
+      "title": "Samuel is Born",
+      "accounts": [
+        {
+          "id": "samuel_is_born",
+          "type": "account",
+          "title": "Samuel is Born",
+          "bible_ref": "1 Samuel 1:1-28",
+          "bible_ref_english": "1 Samuel 1:1-28",
+          "author": null,
+          "url": "https://biblestories.org/samuel_is_born",
+          "short_url": "https://biblestories.org/samuel_is_born"
+        }
+      ]
+    },
+    "samuel_the_prophet": {
+      "id": "samuel_the_prophet",
+      "type": "story",
+      "title": "Samuel the Prophet",
+      "accounts": [
+        {
+          "id": "samuel_the_prophet",
+          "type": "account",
+          "title": "Samuel the Prophet",
+          "bible_ref": "1 Samuel 3:1-4:22",
+          "bible_ref_english": "1 Samuel 3:1-4:22",
+          "author": null,
+          "url": "https://biblestories.org/samuel_the_prophet",
+          "short_url": "https://biblestories.org/samuel_the_prophet"
+        }
+      ]
+    },
+    "saul_becomes_king": {
+      "id": "saul_becomes_king",
+      "type": "story",
+      "title": "Saul Becomes King",
+      "accounts": [
+        {
+          "id": "saul_becomes_king",
+          "type": "account",
+          "title": "Saul Becomes King",
+          "bible_ref": "1 Samuel 9:1-10:27",
+          "bible_ref_english": "1 Samuel 9:1-10:27",
+          "author": null,
+          "url": "https://biblestories.org/saul_becomes_king",
+          "short_url": "https://biblestories.org/saul_becomes_king"
+        }
+      ]
+    },
+    "jonathans_bravery": {
+      "id": "jonathans_bravery",
+      "type": "story",
+      "title": "Jonathan's Bravery",
+      "accounts": [
+        {
+          "id": "jonathans_bravery",
+          "type": "account",
+          "title": "Jonathan's Bravery",
+          "bible_ref": "1 Samuel 14:1-46",
+          "bible_ref_english": "1 Samuel 14:1-46",
+          "author": null,
+          "url": "https://biblestories.org/jonathans_bravery",
+          "short_url": "https://biblestories.org/jonathans_bravery"
+        }
+      ]
+    },
+    "sauls_disobedience": {
+      "id": "sauls_disobedience",
+      "type": "story",
+      "title": "Saul's Disobedience",
+      "accounts": [
+        {
+          "id": "sauls_disobedience",
+          "type": "account",
+          "title": "Saul's Disobedience",
+          "bible_ref": "1 Samuel 15:1-35",
+          "bible_ref_english": "1 Samuel 15:1-35",
+          "author": null,
+          "url": "https://biblestories.org/sauls_disobedience",
+          "short_url": "https://biblestories.org/sauls_disobedience"
+        }
+      ]
+    },
+    "david_kills_goliath": {
+      "id": "david_kills_goliath",
+      "type": "story",
+      "title": "David Kills Goliath",
+      "accounts": [
+        {
+          "id": "david_kills_goliath",
+          "type": "account",
+          "title": "David Kills Goliath",
+          "bible_ref": "1 Samuel 17:1-51",
+          "bible_ref_english": "1 Samuel 17:1-51",
+          "author": null,
+          "url": "https://biblestories.org/david_kills_goliath",
+          "short_url": "https://biblestories.org/david_kills_goliath"
+        }
+      ]
+    },
+    "david_and_jonathan": {
+      "id": "david_and_jonathan",
+      "type": "story",
+      "title": "David and Jonathan",
+      "accounts": [
+        {
+          "id": "david_and_jonathan",
+          "type": "account",
+          "title": "David and Jonathan",
+          "bible_ref": "1 Samuel 18:1-4, 20:1-42",
+          "bible_ref_english": "1 Samuel 18:1-4, 20:1-42",
+          "author": null,
+          "url": "https://biblestories.org/david_and_jonathan",
+          "short_url": "https://biblestories.org/david_and_jonathan"
+        }
+      ]
+    },
+    "nabal_and_abigail": {
+      "id": "nabal_and_abigail",
+      "type": "story",
+      "title": "Nabal and Abigail",
+      "accounts": [
+        {
+          "id": "nabal_and_abigail",
+          "type": "account",
+          "title": "Nabal and Abigail",
+          "bible_ref": "1 Samuel 25:1-44",
+          "bible_ref_english": "1 Samuel 25:1-44",
+          "author": null,
+          "url": "https://biblestories.org/nabal_and_abigail",
+          "short_url": "https://biblestories.org/nabal_and_abigail"
+        }
+      ]
+    },
+    "sauls_death": {
+      "id": "sauls_death",
+      "type": "story",
+      "title": "Saul's Death",
+      "accounts": [
+        {
+          "id": "sauls_death",
+          "type": "account",
+          "title": "Saul's Death",
+          "bible_ref": "1 Samuel 28:1-25, 30:1-13",
+          "bible_ref_english": "1 Samuel 28:1-25, 30:1-13",
+          "author": null,
+          "url": "https://biblestories.org/sauls_death",
+          "short_url": "https://biblestories.org/sauls_death"
+        }
+      ]
+    },
+    "davids_success": {
+      "id": "davids_success",
+      "type": "story",
+      "title": "David's Success",
+      "accounts": [
+        {
+          "id": "davids_success",
+          "type": "account",
+          "title": "David's Success",
+          "bible_ref": "2 Samuel 5:1-6:23",
+          "bible_ref_english": "2 Samuel 5:1-6:23",
+          "author": null,
+          "url": "https://biblestories.org/davids_success",
+          "short_url": "https://biblestories.org/davids_success"
+        }
+      ]
+    },
+    "david_and_bathsheba": {
+      "id": "david_and_bathsheba",
+      "type": "story",
+      "title": "David and Bathsheba",
+      "accounts": [
+        {
+          "id": "david_and_bathsheba",
+          "type": "account",
+          "title": "David and Bathsheba",
+          "bible_ref": "2 Samuel 11:1-12:25",
+          "bible_ref_english": "2 Samuel 11:1-12:25",
+          "author": null,
+          "url": "https://biblestories.org/david_and_bathsheba",
+          "short_url": "https://biblestories.org/david_and_bathsheba"
+        }
+      ]
+    },
+    "amnon_and_tamar": {
+      "id": "amnon_and_tamar",
+      "type": "story",
+      "title": "Amnon and Tamar",
+      "accounts": [
+        {
+          "id": "amnon_and_tamar",
+          "type": "account",
+          "title": "Amnon and Tamar",
+          "bible_ref": "2 Samuel 13:1-22",
+          "bible_ref_english": "2 Samuel 13:1-22",
+          "author": null,
+          "url": "https://biblestories.org/amnon_and_tamar",
+          "short_url": "https://biblestories.org/amnon_and_tamar"
+        }
+      ]
+    },
+    "absalom": {
+      "id": "absalom",
+      "type": "story",
+      "title": "Absalom",
+      "accounts": [
+        {
+          "id": "absalom",
+          "type": "account",
+          "title": "Absalom",
+          "bible_ref": "2 Samuel 13:23-19:8",
+          "bible_ref_english": "2 Samuel 13:23-19:8",
+          "author": null,
+          "url": "https://biblestories.org/absalom",
+          "short_url": "https://biblestories.org/absalom"
+        }
+      ]
+    },
+    "solomons_wisdom": {
+      "id": "solomons_wisdom",
+      "type": "story",
+      "title": "Solomon's Wisdom",
+      "accounts": [
+        {
+          "id": "solomons_wisdom",
+          "type": "account",
+          "title": "Solomon's Wisdom",
+          "bible_ref": "1 Kings 3:1-28",
+          "bible_ref_english": "1 Kings 3:1-28",
+          "author": null,
+          "url": "https://biblestories.org/solomons_wisdom",
+          "short_url": "https://biblestories.org/solomons_wisdom"
+        }
+      ]
+    },
+    "jeroboam_and_rehoboam": {
+      "id": "jeroboam_and_rehoboam",
+      "type": "story",
+      "title": "Jeroboam and Rehoboam",
+      "accounts": [
+        {
+          "id": "jeroboam_and_rehoboam",
+          "type": "account",
+          "title": "Jeroboam and Rehoboam",
+          "bible_ref": "1 Kings 11:26-14:31",
+          "bible_ref_english": "1 Kings 11:26-14:31",
+          "author": null,
+          "url": "https://biblestories.org/jeroboam_and_rehoboam",
+          "short_url": "https://biblestories.org/jeroboam_and_rehoboam"
+        }
+      ]
+    },
+    "elijahs_challenge": {
+      "id": "elijahs_challenge",
+      "type": "story",
+      "title": "Elijah's Challenge",
+      "accounts": [
+        {
+          "id": "elijahs_challenge",
+          "type": "account",
+          "title": "Elijah's Challenge",
+          "bible_ref": "1 Kings 17:1-18:46",
+          "bible_ref_english": "1 Kings 17:1-18:46",
+          "author": null,
+          "url": "https://biblestories.org/elijahs_challenge",
+          "short_url": "https://biblestories.org/elijahs_challenge"
+        }
+      ]
+    },
+    "god_speaks_to_elijah": {
+      "id": "god_speaks_to_elijah",
+      "type": "story",
+      "title": "God Speaks to Elijah",
+      "accounts": [
+        {
+          "id": "god_speaks_to_elijah",
+          "type": "account",
+          "title": "God Speaks to Elijah",
+          "bible_ref": "1 Kings 19:1-21",
+          "bible_ref_english": "1 Kings 19:1-21",
+          "author": null,
+          "url": "https://biblestories.org/god_speaks_to_elijah",
+          "short_url": "https://biblestories.org/god_speaks_to_elijah"
+        }
+      ]
+    },
+    "micaiah_the_prophet": {
+      "id": "micaiah_the_prophet",
+      "type": "story",
+      "title": "Micaiah the Prophet",
+      "accounts": [
+        {
+          "id": "micaiah_the_prophet",
+          "type": "account",
+          "title": "Micaiah the Prophet",
+          "bible_ref": "1 Kings 22:1-40",
+          "bible_ref_english": "1 Kings 22:1-40",
+          "author": null,
+          "url": "https://biblestories.org/micaiah_the_prophet",
+          "short_url": "https://biblestories.org/micaiah_the_prophet"
+        }
+      ]
+    },
+    "chariot_of_fire": {
+      "id": "chariot_of_fire",
+      "type": "story",
+      "title": "Chariot of Fire",
+      "accounts": [
+        {
+          "id": "chariot_of_fire",
+          "type": "account",
+          "title": "Chariot of Fire",
+          "bible_ref": "2 Kings 1:1-2:25",
+          "bible_ref_english": "2 Kings 1:1-2:25",
+          "author": null,
+          "url": "https://biblestories.org/chariot_of_fire",
+          "short_url": "https://biblestories.org/chariot_of_fire"
+        }
+      ]
+    },
+    "elisha_heals_naaman": {
+      "id": "elisha_heals_naaman",
+      "type": "story",
+      "title": "Elisha Heals Naaman",
+      "accounts": [
+        {
+          "id": "elisha_heals_naaman",
+          "type": "account",
+          "title": "Elisha Heals Naaman",
+          "bible_ref": "2 Kings 5:1-27",
+          "bible_ref_english": "2 Kings 5:1-27",
+          "author": null,
+          "url": "https://biblestories.org/elisha_heals_naaman",
+          "short_url": "https://biblestories.org/elisha_heals_naaman"
+        }
+      ]
+    },
+    "famine_and_unbelief": {
+      "id": "famine_and_unbelief",
+      "type": "story",
+      "title": "Famine and Unbelief",
+      "accounts": [
+        {
+          "id": "famine_and_unbelief",
+          "type": "account",
+          "title": "Famine and Unbelief",
+          "bible_ref": "2 Kings 6:24-7:20",
+          "bible_ref_english": "2 Kings 6:24-7:20",
+          "author": null,
+          "url": "https://biblestories.org/famine_and_unbelief",
+          "short_url": "https://biblestories.org/famine_and_unbelief"
+        }
+      ]
+    },
+    "joash_and_jehoiada": {
+      "id": "joash_and_jehoiada",
+      "type": "story",
+      "title": "Joash and Jehoiada",
+      "accounts": [
+        {
+          "id": "joash_and_jehoiada",
+          "type": "account",
+          "title": "Joash and Jehoiada",
+          "bible_ref": "2 Kings 11:1-21",
+          "bible_ref_english": "2 Kings 11:1-21",
+          "author": null,
+          "url": "https://biblestories.org/joash_and_jehoiada",
+          "short_url": "https://biblestories.org/joash_and_jehoiada"
+        }
+      ]
+    },
+    "hezekiah_trusts_god": {
+      "id": "hezekiah_trusts_god",
+      "type": "story",
+      "title": "Hezekiah Trusts God",
+      "accounts": [
+        {
+          "id": "hezekiah_trusts_god",
+          "type": "account",
+          "title": "Hezekiah Trusts God",
+          "bible_ref": "2 Kings 18:13-19:37",
+          "bible_ref_english": "2 Kings 18:13-19:37",
+          "author": null,
+          "url": "https://biblestories.org/hezekiah_trusts_god",
+          "short_url": "https://biblestories.org/hezekiah_trusts_god"
+        }
+      ]
+    },
+    "josiahs_reign": {
+      "id": "josiahs_reign",
+      "type": "story",
+      "title": "Josiah's Reign",
+      "accounts": [
+        {
+          "id": "josiahs_reign",
+          "type": "account",
+          "title": "Josiah's Reign",
+          "bible_ref": "2 Kings 22:1-23:30",
+          "bible_ref_english": "2 Kings 22:1-23:30",
+          "author": null,
+          "url": "https://biblestories.org/josiahs_reign",
+          "short_url": "https://biblestories.org/josiahs_reign"
+        }
+      ]
+    },
+    "fall_of_jerusalem": {
+      "id": "fall_of_jerusalem",
+      "type": "story",
+      "title": "Fall of Jerusalem",
+      "accounts": [
+        {
+          "id": "fall_of_jerusalem",
+          "type": "account",
+          "title": "Fall of Jerusalem",
+          "bible_ref": "2 Kings 24:18-25:30",
+          "bible_ref_english": "2 Kings 24:18-25:30",
+          "author": null,
+          "url": "https://biblestories.org/fall_of_jerusalem",
+          "short_url": "https://biblestories.org/fall_of_jerusalem"
+        }
+      ]
+    },
+    "davids_power": {
+      "id": "davids_power",
+      "type": "story",
+      "title": "David's Power",
+      "accounts": [
+        {
+          "id": "davids_power",
+          "type": "account",
+          "title": "David's Power",
+          "bible_ref": "1 Chronicles 11:1-25",
+          "bible_ref_english": "1 Chronicles 11:1-25",
+          "author": null,
+          "url": "https://biblestories.org/davids_power",
+          "short_url": "https://biblestories.org/davids_power"
+        }
+      ]
+    },
+    "davids_census": {
+      "id": "davids_census",
+      "type": "story",
+      "title": "David's Census",
+      "accounts": [
+        {
+          "id": "davids_census",
+          "type": "account",
+          "title": "David's Census",
+          "bible_ref": "1 Chronicles 21:1-22:1",
+          "bible_ref_english": "1 Chronicles 21:1-22:1",
+          "author": null,
+          "url": "https://biblestories.org/davids_census",
+          "short_url": "https://biblestories.org/davids_census"
+        }
+      ]
+    },
+    "jehoshaphat_and_ahab": {
+      "id": "jehoshaphat_and_ahab",
+      "type": "story",
+      "title": "Jehoshaphat and Ahab",
+      "accounts": [
+        {
+          "id": "jehoshaphat_and_ahab",
+          "type": "account",
+          "title": "Jehoshaphat and Ahab",
+          "bible_ref": "2 Chronicles 18:1-19:11",
+          "bible_ref_english": "2 Chronicles 18:1-19:11",
+          "author": null,
+          "url": "https://biblestories.org/jehoshaphat_and_ahab",
+          "short_url": "https://biblestories.org/jehoshaphat_and_ahab"
+        }
+      ]
+    },
+    "ezra_rebuilds_the_altar": {
+      "id": "ezra_rebuilds_the_altar",
+      "type": "story",
+      "title": "Ezra Rebuilds the Altar",
+      "accounts": [
+        {
+          "id": "ezra_rebuilds_the_altar",
+          "type": "account",
+          "title": "Ezra Rebuilds the Altar",
+          "bible_ref": "Ezra 3:1-13",
+          "bible_ref_english": "Ezra 3:1-13",
+          "author": null,
+          "url": "https://biblestories.org/ezra_rebuilds_the_altar",
+          "short_url": "https://biblestories.org/ezra_rebuilds_the_altar"
+        }
+      ]
+    },
+    "nehemiah_builds_the_wall": {
+      "id": "nehemiah_builds_the_wall",
+      "type": "story",
+      "title": "Nehemiah Builds the Wall",
+      "accounts": [
+        {
+          "id": "nehemiah_builds_the_wall",
+          "type": "account",
+          "title": "Nehemiah Builds the Wall",
+          "bible_ref": "Nehemiah 2:1-20",
+          "bible_ref_english": "Nehemiah 2:1-20",
+          "author": null,
+          "url": "https://biblestories.org/nehemiah_builds_the_wall",
+          "short_url": "https://biblestories.org/nehemiah_builds_the_wall"
+        }
+      ]
+    },
+    "enemy_opposition": {
+      "id": "enemy_opposition",
+      "type": "story",
+      "title": "Enemy Opposition",
+      "accounts": [
+        {
+          "id": "enemy_opposition",
+          "type": "account",
+          "title": "Enemy Opposition",
+          "bible_ref": "Nehemiah 4:1-23",
+          "bible_ref_english": "Nehemiah 4:1-23",
+          "author": null,
+          "url": "https://biblestories.org/enemy_opposition",
+          "short_url": "https://biblestories.org/enemy_opposition"
+        }
+      ]
+    },
+    "nehemiahs_justice": {
+      "id": "nehemiahs_justice",
+      "type": "story",
+      "title": "Nehemiah's Justice",
+      "accounts": [
+        {
+          "id": "nehemiahs_justice",
+          "type": "account",
+          "title": "Nehemiah's Justice",
+          "bible_ref": "Nehemiah 5:1-19",
+          "bible_ref_english": "Nehemiah 5:1-19",
+          "author": null,
+          "url": "https://biblestories.org/nehemiahs_justice",
+          "short_url": "https://biblestories.org/nehemiahs_justice"
+        }
+      ]
+    },
+    "esther_saves_the_jews": {
+      "id": "esther_saves_the_jews",
+      "type": "story",
+      "title": "Esther Saves the Jews",
+      "accounts": [
+        {
+          "id": "esther_saves_the_jews",
+          "type": "account",
+          "title": "Esther Saves the Jews",
+          "bible_ref": "Esther 1:1-10:3",
+          "bible_ref_english": "Esther 1:1-10:3",
+          "author": "a Persian Jew",
+          "url": "https://biblestories.org/esther_saves_the_jews",
+          "short_url": "https://biblestories.org/esther_saves_the_jews"
+        }
+      ]
+    },
+    "job_is_tested": {
+      "id": "job_is_tested",
+      "type": "story",
+      "title": "Job is Tested",
+      "accounts": [
+        {
+          "id": "job_is_tested",
+          "type": "account",
+          "title": "Job is Tested",
+          "bible_ref": "Job 1:1-22",
+          "bible_ref_english": "Job 1:1-22",
+          "author": null,
+          "url": "https://biblestories.org/job_is_tested",
+          "short_url": "https://biblestories.org/job_is_tested"
+        }
+      ]
+    },
+    "ezekiels_vision": {
+      "id": "ezekiels_vision",
+      "type": "story",
+      "title": "Ezekiel's Vision",
+      "accounts": [
+        {
+          "id": "ezekiels_vision",
+          "type": "account",
+          "title": "Ezekiel's Vision",
+          "bible_ref": "Ezekiel 37:1-14",
+          "bible_ref_english": "Ezekiel 37:1-14",
+          "author": "Ezekiel",
+          "url": "https://biblestories.org/ezekiels_vision",
+          "short_url": "https://biblestories.org/ezekiels_vision"
+        }
+      ]
+    },
+    "the_fiery_furnace": {
+      "id": "the_fiery_furnace",
+      "type": "story",
+      "title": "The Fiery Furnace",
+      "accounts": [
+        {
+          "id": "the_fiery_furnace",
+          "type": "account",
+          "title": "The Fiery Furnace",
+          "bible_ref": "Daniel 3:1-30",
+          "bible_ref_english": "Daniel 3:1-30",
+          "author": "Daniel",
+          "url": "https://biblestories.org/the_fiery_furnace",
+          "short_url": "https://biblestories.org/the_fiery_furnace"
+        }
+      ]
+    },
+    "the_lions_den": {
+      "id": "the_lions_den",
+      "type": "story",
+      "title": "The Lions' Den",
+      "accounts": [
+        {
+          "id": "the_lions_den",
+          "type": "account",
+          "title": "The Lions' Den",
+          "bible_ref": "Daniel 6:1-28",
+          "bible_ref_english": "Daniel 6:1-28",
+          "author": "Daniel",
+          "url": "https://biblestories.org/the_lions_den",
+          "short_url": "https://biblestories.org/the_lions_den"
+        }
+      ]
+    },
+    "jonah": {
+      "id": "jonah",
+      "type": "story",
+      "title": "Jonah",
+      "accounts": [
+        {
+          "id": "jonah",
+          "type": "account",
+          "title": "Jonah",
+          "bible_ref": "Jonah 1:1-4:11",
+          "bible_ref_english": "Jonah 1:1-4:11",
+          "author": "Jonah (a prophet)",
+          "url": "https://biblestories.org/jonah",
+          "short_url": "https://biblestories.org/jonah"
+        }
+      ]
+    },
+    "jesus_is_born": {
+      "id": "jesus_is_born",
+      "type": "story",
+      "title": "Jesus is Born",
+      "accounts": [
+        {
+          "id": "jesus_is_born_by_matthew",
+          "type": "account",
+          "title": "Jesus is Born",
+          "bible_ref": "Matthew 1:18-25",
+          "bible_ref_english": "Matthew 1:18-25",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_is_born_by_matthew",
+          "short_url": "https://biblestories.org/jesus_is_born_by_matthew"
+        },
+        {
+          "id": "jesus_is_born_by_luke",
+          "type": "account",
+          "title": "Jesus is Born",
+          "bible_ref": "Luke 2:1-40",
+          "bible_ref_english": "Luke 2:1-40",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_is_born_by_luke",
+          "short_url": "https://biblestories.org/jesus_is_born_by_luke"
+        }
+      ]
+    },
+    "wise_men_and_king_herod": {
+      "id": "wise_men_and_king_herod",
+      "type": "story",
+      "title": "Wise Men and King Herod",
+      "accounts": [
+        {
+          "id": "wise_men_and_king_herod",
+          "type": "account",
+          "title": "Wise Men and King Herod",
+          "bible_ref": "Matthew 2:1-23",
+          "bible_ref_english": "Matthew 2:1-23",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/wise_men_and_king_herod",
+          "short_url": "https://biblestories.org/wise_men_and_king_herod"
+        }
+      ]
+    },
+    "jesus_is_tempted": {
+      "id": "jesus_is_tempted",
+      "type": "story",
+      "title": "Jesus is Tempted",
+      "accounts": [
+        {
+          "id": "jesus_is_tempted_by_matthew",
+          "type": "account",
+          "title": "Jesus is Tempted",
+          "bible_ref": "Matthew 4:1-11",
+          "bible_ref_english": "Matthew 4:1-11",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_is_tempted_by_matthew",
+          "short_url": "https://biblestories.org/jesus_is_tempted_by_matthew"
+        },
+        {
+          "id": "jesus_is_tempted_by_mark",
+          "type": "account",
+          "title": "Jesus is Tempted",
+          "bible_ref": "Mark 1:12-13",
+          "bible_ref_english": "Mark 1:12-13",
+          "author": "Mark",
+          "url": "https://biblestories.org/jesus_is_tempted_by_mark",
+          "short_url": "https://biblestories.org/jesus_is_tempted_by_mark"
+        },
+        {
+          "id": "jesus_is_tempted_by_luke",
+          "type": "account",
+          "title": "Jesus is Tempted",
+          "bible_ref": "Luke 4:1-13",
+          "bible_ref_english": "Luke 4:1-13",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_is_tempted_by_luke",
+          "short_url": "https://biblestories.org/jesus_is_tempted_by_luke"
+        }
+      ]
+    },
+    "jesus_feeds_5000": {
+      "id": "jesus_feeds_5000",
+      "type": "story",
+      "title": "Jesus Feeds 5,000",
+      "accounts": [
+        {
+          "id": "jesus_feeds_5000_by_matthew",
+          "type": "account",
+          "title": "Jesus Feeds 5,000",
+          "bible_ref": "Matthew 14:13-21",
+          "bible_ref_english": "Matthew 14:13-21",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_feeds_5000_by_matthew",
+          "short_url": "https://biblestories.org/jesus_feeds_5000_by_matthew"
+        },
+        {
+          "id": "jesus_feeds_5000_by_mark",
+          "type": "account",
+          "title": "Jesus Feeds 5,000",
+          "bible_ref": "Mark 6:30-44",
+          "bible_ref_english": "Mark 6:30-44",
+          "author": "Mark",
+          "url": "https://biblestories.org/jesus_feeds_5000_by_mark",
+          "short_url": "https://biblestories.org/jesus_feeds_5000_by_mark"
+        },
+        {
+          "id": "jesus_feeds_5000_by_luke",
+          "type": "account",
+          "title": "Jesus Feeds 5,000",
+          "bible_ref": "Luke 9:10-17",
+          "bible_ref_english": "Luke 9:10-17",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_feeds_5000_by_luke",
+          "short_url": "https://biblestories.org/jesus_feeds_5000_by_luke"
+        },
+        {
+          "id": "jesus_feeds_5000_by_john",
+          "type": "account",
+          "title": "Jesus Feeds 5,000",
+          "bible_ref": "John 6:1-15",
+          "bible_ref_english": "John 6:1-15",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/jesus_feeds_5000_by_john",
+          "short_url": "https://biblestories.org/jesus_feeds_5000_by_john"
+        }
+      ]
+    },
+    "the_bread_of_life": {
+      "id": "the_bread_of_life",
+      "type": "story",
+      "title": "The Bread of Life",
+      "accounts": [
+        {
+          "id": "the_bread_of_life",
+          "type": "account",
+          "title": "The Bread of Life",
+          "bible_ref": "John 6:1-71",
+          "bible_ref_english": "John 6:1-71",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/the_bread_of_life",
+          "short_url": "https://biblestories.org/the_bread_of_life"
+        }
+      ]
+    },
+    "jesus_walks_on_water": {
+      "id": "jesus_walks_on_water",
+      "type": "story",
+      "title": "Jesus Walks on Water",
+      "accounts": [
+        {
+          "id": "jesus_walks_on_water_by_matthew",
+          "type": "account",
+          "title": "Jesus Walks on Water",
+          "bible_ref": "Matthew 14:22-36",
+          "bible_ref_english": "Matthew 14:22-36",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_walks_on_water_by_matthew",
+          "short_url": "https://biblestories.org/jesus_walks_on_water_by_matthew"
+        },
+        {
+          "id": "jesus_walks_on_water_by_mark",
+          "type": "account",
+          "title": "Jesus Walks on Water",
+          "bible_ref": "Mark 6:45-56",
+          "bible_ref_english": "Mark 6:45-56",
+          "author": "Mark",
+          "url": "https://biblestories.org/jesus_walks_on_water_by_mark",
+          "short_url": "https://biblestories.org/jesus_walks_on_water_by_mark"
+        },
+        {
+          "id": "jesus_walks_on_water_by_john",
+          "type": "account",
+          "title": "Jesus Walks on Water",
+          "bible_ref": "John 6:16-21",
+          "bible_ref_english": "John 6:16-21",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/jesus_walks_on_water_by_john",
+          "short_url": "https://biblestories.org/jesus_walks_on_water_by_john"
+        }
+      ]
+    },
+    "the_good_samaritan": {
+      "id": "the_good_samaritan",
+      "type": "story",
+      "title": "The Good Samaritan",
+      "accounts": [
+        {
+          "id": "the_good_samaritan",
+          "type": "account",
+          "title": "The Good Samaritan",
+          "bible_ref": "Luke 10:25-37",
+          "bible_ref_english": "Luke 10:25-37",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/the_good_samaritan",
+          "short_url": "https://biblestories.org/the_good_samaritan"
+        }
+      ]
+    },
+    "the_lost_son": {
+      "id": "the_lost_son",
+      "type": "story",
+      "title": "The Lost Son",
+      "accounts": [
+        {
+          "id": "the_lost_son",
+          "type": "account",
+          "title": "The Lost Son",
+          "bible_ref": "Luke 15:1-32",
+          "bible_ref_english": "Luke 15:1-32",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/the_lost_son",
+          "short_url": "https://biblestories.org/the_lost_son"
+        }
+      ]
+    },
+    "jesus_raises_lazarus": {
+      "id": "jesus_raises_lazarus",
+      "type": "story",
+      "title": "Jesus Raises Lazarus",
+      "accounts": [
+        {
+          "id": "jesus_raises_lazarus",
+          "type": "account",
+          "title": "Jesus Raises Lazarus",
+          "bible_ref": "John 11:1-44",
+          "bible_ref_english": "John 11:1-44",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/jesus_raises_lazarus",
+          "short_url": "https://biblestories.org/jesus_raises_lazarus"
+        }
+      ]
+    },
+    "jesus_and_zacchaeus": {
+      "id": "jesus_and_zacchaeus",
+      "type": "story",
+      "title": "Jesus and Zacchaeus",
+      "accounts": [
+        {
+          "id": "jesus_and_zacchaeus",
+          "type": "account",
+          "title": "Jesus and Zacchaeus",
+          "bible_ref": "Luke 19:1-10",
+          "bible_ref_english": "Luke 19:1-10",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_and_zacchaeus",
+          "short_url": "https://biblestories.org/jesus_and_zacchaeus"
+        }
+      ]
+    },
+    "the_triumphal_entry": {
+      "id": "the_triumphal_entry",
+      "type": "story",
+      "title": "The Triumphal Entry",
+      "accounts": [
+        {
+          "id": "the_triumphal_entry_by_matthew",
+          "type": "account",
+          "title": "The Triumphal Entry",
+          "bible_ref": "Matthew 21:1-11",
+          "bible_ref_english": "Matthew 21:1-11",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/the_triumphal_entry_by_matthew",
+          "short_url": "https://biblestories.org/the_triumphal_entry_by_matthew"
+        },
+        {
+          "id": "the_triumphal_entry_by_luke",
+          "type": "account",
+          "title": "The Triumphal Entry",
+          "bible_ref": "Luke 19:28-40",
+          "bible_ref_english": "Luke 19:28-40",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/the_triumphal_entry_by_luke",
+          "short_url": "https://biblestories.org/the_triumphal_entry_by_luke"
+        },
+        {
+          "id": "the_triumphal_entry_by_john",
+          "type": "account",
+          "title": "The Triumphal Entry",
+          "bible_ref": "John 12:12-19",
+          "bible_ref_english": "John 12:12-19",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/the_triumphal_entry_by_john",
+          "short_url": "https://biblestories.org/the_triumphal_entry_by_john"
+        }
+      ]
+    },
+    "the_last_supper": {
+      "id": "the_last_supper",
+      "type": "story",
+      "title": "The Last Supper",
+      "accounts": [
+        {
+          "id": "the_last_supper_by_matthew",
+          "type": "account",
+          "title": "The Last Supper",
+          "bible_ref": "Matthew 26:17-30",
+          "bible_ref_english": "Matthew 26:17-30",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/the_last_supper_by_matthew",
+          "short_url": "https://biblestories.org/the_last_supper_by_matthew"
+        },
+        {
+          "id": "the_last_supper_by_mark",
+          "type": "account",
+          "title": "The Last Supper",
+          "bible_ref": "Mark 14:12-26",
+          "bible_ref_english": "Mark 14:12-26",
+          "author": "Mark",
+          "url": "https://biblestories.org/the_last_supper_by_mark",
+          "short_url": "https://biblestories.org/the_last_supper_by_mark"
+        },
+        {
+          "id": "the_last_supper_by_luke",
+          "type": "account",
+          "title": "The Last Supper",
+          "bible_ref": "Luke 22:7-30",
+          "bible_ref_english": "Luke 22:7-30",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/the_last_supper_by_luke",
+          "short_url": "https://biblestories.org/the_last_supper_by_luke"
+        },
+        {
+          "id": "the_last_supper_by_john",
+          "type": "account",
+          "title": "The Last Supper",
+          "bible_ref": "John 13:1-30",
+          "bible_ref_english": "John 13:1-30",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/the_last_supper_by_john",
+          "short_url": "https://biblestories.org/the_last_supper_by_john"
+        }
+      ]
+    },
+    "jesus_trial": {
+      "id": "jesus_trial",
+      "type": "story",
+      "title": "Jesus' Trial",
+      "accounts": [
+        {
+          "id": "jesus_trial",
+          "type": "account",
+          "title": "Jesus' Trial",
+          "bible_ref": "Matthew 26:47-27:31",
+          "bible_ref_english": "Matthew 26:47-27:31",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_trial",
+          "short_url": "https://biblestories.org/jesus_trial"
+        }
+      ]
+    },
+    "jesus_crucifixion": {
+      "id": "jesus_crucifixion",
+      "type": "story",
+      "title": "Jesus' Crucifixion",
+      "accounts": [
+        {
+          "id": "jesus_crucifixion_by_matthew",
+          "type": "account",
+          "title": "Jesus' Crucifixion",
+          "bible_ref": "Matthew 27:32-56",
+          "bible_ref_english": "Matthew 27:32-56",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_crucifixion_by_matthew",
+          "short_url": "https://biblestories.org/jesus_crucifixion_by_matthew"
+        },
+        {
+          "id": "jesus_crucifixion_by_mark",
+          "type": "account",
+          "title": "Jesus' Crucifixion",
+          "bible_ref": "Mark 15:21-41",
+          "bible_ref_english": "Mark 15:21-41",
+          "author": "Mark",
+          "url": "https://biblestories.org/jesus_crucifixion_by_mark",
+          "short_url": "https://biblestories.org/jesus_crucifixion_by_mark"
+        },
+        {
+          "id": "jesus_crucifixion_by_luke",
+          "type": "account",
+          "title": "Jesus' Crucifixion",
+          "bible_ref": "Luke 23:26-49",
+          "bible_ref_english": "Luke 23:26-49",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_crucifixion_by_luke",
+          "short_url": "https://biblestories.org/jesus_crucifixion_by_luke"
+        },
+        {
+          "id": "jesus_crucifixion_by_john",
+          "type": "account",
+          "title": "Jesus' Crucifixion",
+          "bible_ref": "John 19:16-42",
+          "bible_ref_english": "John 19:16-42",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/jesus_crucifixion_by_john",
+          "short_url": "https://biblestories.org/jesus_crucifixion_by_john"
+        }
+      ]
+    },
+    "jesus_resurrection": {
+      "id": "jesus_resurrection",
+      "type": "story",
+      "title": "Jesus' Resurrection",
+      "accounts": [
+        {
+          "id": "jesus_resurrection_by_matthew",
+          "type": "account",
+          "title": "Jesus' Resurrection",
+          "bible_ref": "Matthew 28:1-15",
+          "bible_ref_english": "Matthew 28:1-15",
+          "author": "Matthew (a tax collector)",
+          "url": "https://biblestories.org/jesus_resurrection_by_matthew",
+          "short_url": "https://biblestories.org/jesus_resurrection_by_matthew"
+        },
+        {
+          "id": "jesus_resurrection_by_mark",
+          "type": "account",
+          "title": "Jesus' Resurrection",
+          "bible_ref": "Mark 16:1-14",
+          "bible_ref_english": "Mark 16:1-14",
+          "author": "Mark",
+          "url": "https://biblestories.org/jesus_resurrection_by_mark",
+          "short_url": "https://biblestories.org/jesus_resurrection_by_mark"
+        },
+        {
+          "id": "jesus_resurrection_by_luke",
+          "type": "account",
+          "title": "Jesus' Resurrection",
+          "bible_ref": "Luke 24:1-34",
+          "bible_ref_english": "Luke 24:1-34",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_resurrection_by_luke",
+          "short_url": "https://biblestories.org/jesus_resurrection_by_luke"
+        },
+        {
+          "id": "jesus_resurrection_by_john",
+          "type": "account",
+          "title": "Jesus' Resurrection",
+          "bible_ref": "John 20:1-10",
+          "bible_ref_english": "John 20:1-10",
+          "author": "John (a disciple)",
+          "url": "https://biblestories.org/jesus_resurrection_by_john",
+          "short_url": "https://biblestories.org/jesus_resurrection_by_john"
+        }
+      ]
+    },
+    "jesus_ascension": {
+      "id": "jesus_ascension",
+      "type": "story",
+      "title": "Jesus' Ascension",
+      "accounts": [
+        {
+          "id": "jesus_ascension_luke",
+          "type": "account",
+          "title": "Jesus' Ascension",
+          "bible_ref": "Luke 24:35-53",
+          "bible_ref_english": "Luke 24:35-53",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_ascension_luke",
+          "short_url": "https://biblestories.org/jesus_ascension_luke"
+        },
+        {
+          "id": "jesus_ascension_acts",
+          "type": "account",
+          "title": "Jesus' Ascension",
+          "bible_ref": "Acts 1:6-11",
+          "bible_ref_english": "Acts 1:6-11",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/jesus_ascension_acts",
+          "short_url": "https://biblestories.org/jesus_ascension_acts"
+        }
+      ]
+    },
+    "the_holy_spirit_comes": {
+      "id": "the_holy_spirit_comes",
+      "type": "story",
+      "title": "The Holy Spirit Comes",
+      "accounts": [
+        {
+          "id": "the_holy_spirit_comes",
+          "type": "account",
+          "title": "The Holy Spirit Comes",
+          "bible_ref": "Acts 2:1-47",
+          "bible_ref_english": "Acts 2:1-47",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/the_holy_spirit_comes",
+          "short_url": "https://biblestories.org/the_holy_spirit_comes"
+        }
+      ]
+    },
+    "the_apostles_courage": {
+      "id": "the_apostles_courage",
+      "type": "story",
+      "title": "The Apostles' Courage",
+      "accounts": [
+        {
+          "id": "the_apostles_courage",
+          "type": "account",
+          "title": "The Apostles' Courage",
+          "bible_ref": "Acts 4:1-31",
+          "bible_ref_english": "Acts 4:1-31",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/the_apostles_courage",
+          "short_url": "https://biblestories.org/the_apostles_courage"
+        }
+      ]
+    },
+    "ananias_and_sapphira": {
+      "id": "ananias_and_sapphira",
+      "type": "story",
+      "title": "Ananias and Sapphira",
+      "accounts": [
+        {
+          "id": "ananias_and_sapphira",
+          "type": "account",
+          "title": "Ananias and Sapphira",
+          "bible_ref": "Acts 5:1-11",
+          "bible_ref_english": "Acts 5:1-11",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/ananias_and_sapphira",
+          "short_url": "https://biblestories.org/ananias_and_sapphira"
+        }
+      ]
+    },
+    "philip_and_the_eunuch": {
+      "id": "philip_and_the_eunuch",
+      "type": "story",
+      "title": "Philip and the Eunuch",
+      "accounts": [
+        {
+          "id": "philip_and_the_eunuch",
+          "type": "account",
+          "title": "Philip and the Eunuch",
+          "bible_ref": "Acts 8:26-40",
+          "bible_ref_english": "Acts 8:26-40",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/philip_and_the_eunuch",
+          "short_url": "https://biblestories.org/philip_and_the_eunuch"
+        }
+      ]
+    },
+    "saul_encounters_jesus": {
+      "id": "saul_encounters_jesus",
+      "type": "story",
+      "title": "Saul Encounters Jesus",
+      "accounts": [
+        {
+          "id": "saul_encounters_jesus",
+          "type": "account",
+          "title": "Saul Encounters Jesus",
+          "bible_ref": "Acts 9:1-19",
+          "bible_ref_english": "Acts 9:1-19",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/saul_encounters_jesus",
+          "short_url": "https://biblestories.org/saul_encounters_jesus"
+        }
+      ]
+    },
+    "peter_and_cornelius": {
+      "id": "peter_and_cornelius",
+      "type": "story",
+      "title": "Peter and Cornelius",
+      "accounts": [
+        {
+          "id": "peter_and_cornelius",
+          "type": "account",
+          "title": "Peter and Cornelius",
+          "bible_ref": "Acts 10:1-11:18",
+          "bible_ref_english": "Acts 10:1-11:18",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/peter_and_cornelius",
+          "short_url": "https://biblestories.org/peter_and_cornelius"
+        }
+      ]
+    },
+    "paul_in_corinth": {
+      "id": "paul_in_corinth",
+      "type": "story",
+      "title": "Paul in Corinth",
+      "accounts": [
+        {
+          "id": "paul_in_corinth",
+          "type": "account",
+          "title": "Paul in Corinth",
+          "bible_ref": "Acts 18:1-28",
+          "bible_ref_english": "Acts 18:1-28",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/paul_in_corinth",
+          "short_url": "https://biblestories.org/paul_in_corinth"
+        }
+      ]
+    },
+    "paul_in_ephesus": {
+      "id": "paul_in_ephesus",
+      "type": "story",
+      "title": "Paul in Ephesus",
+      "accounts": [
+        {
+          "id": "paul_in_ephesus",
+          "type": "account",
+          "title": "Paul in Ephesus",
+          "bible_ref": "Acts 19:1-41",
+          "bible_ref_english": "Acts 19:1-41",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/paul_in_ephesus",
+          "short_url": "https://biblestories.org/paul_in_ephesus"
+        }
+      ]
+    },
+    "paul_goes_to_rome": {
+      "id": "paul_goes_to_rome",
+      "type": "story",
+      "title": "Paul Goes to Rome",
+      "accounts": [
+        {
+          "id": "paul_goes_to_rome",
+          "type": "account",
+          "title": "Paul Goes to Rome",
+          "bible_ref": "Acts 27:1-28:31",
+          "bible_ref_english": "Acts 27:1-28:31",
+          "author": "Luke (a physician)",
+          "url": "https://biblestories.org/paul_goes_to_rome",
+          "short_url": "https://biblestories.org/paul_goes_to_rome"
+        }
+      ]
+    }
+  }
+}
